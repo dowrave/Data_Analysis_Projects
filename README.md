@@ -27,5 +27,5 @@
 ## Dacon_SoccerPlayerProspect `221114 ~ 221124`
 - [데이콘 Basic : 축구 선수의 유망 여부](https://dacon.io/competitions/official/236031/overview/description)에 참여한 내용입니다.
 - `Pandas, sklearn, keras` 등을 이용했습니다.
-- 피쳐 엔지니어링을 더 봐야겠다!
+
 
